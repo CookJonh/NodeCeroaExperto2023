@@ -1,0 +1,10 @@
+8 por 1 es 8
+8 por 2 es 16
+8 por 3 es 24
+8 por 4 es 32
+8 por 5 es 40
+8 por 6 es 48
+8 por 7 es 56
+8 por 8 es 64
+8 por 9 es 72
+8 por 10 es 80

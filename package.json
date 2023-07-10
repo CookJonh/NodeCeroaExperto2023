@@ -1,0 +1,19 @@
+{
+  "name": "nodeudemyceroaexperto",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base4": "node app2-usarFileSystem.js --base=4"
+  },
+  "author": "Jonh Cook",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
